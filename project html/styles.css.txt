@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #007bff;
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container p {
+    line-height: 1.6;
+}
